@@ -1,2 +1,2 @@
 # reactive-news
-Open Sources tech news application using Material UI and React JS.
+Open sources tech news application using Material UI and React JS.
